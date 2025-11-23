@@ -316,21 +316,27 @@ export default function Dashboard() {
                                         </CardTitle>
                                     </CardHeader>
                                     <CardContent className="overflow-auto max-h-[300px] space-y-4">
-                                        {selectedStock.posts.map((post, i) => (
-                                            <a key={i} href={post.url} target="_blank" rel="noopener noreferrer" className="block group">
-                                                <div className="p-3 rounded-lg border bg-card hover:bg-accent transition-colors">
-                                                    <div className="font-medium group-hover:text-primary transition-colors line-clamp-2">
-                                                        {post.title}
+                                        {selectedStock.posts && selectedStock.posts.length > 0 ? (
+                                            selectedStock.posts.map((post, i) => (
+                                                <a key={i} href={post.url} target="_blank" rel="noopener noreferrer" className="block group">
+                                                    <div className="p-3 rounded-lg border bg-card hover:bg-accent transition-colors">
+                                                        <div className="font-medium group-hover:text-primary transition-colors line-clamp-2">
+                                                            {post.title}
+                                                        </div>
+                                                        <div className="flex items-center gap-2 mt-2 text-xs text-muted-foreground">
+                                                            <Badge variant="outline" className="text-[10px]">r/{post.subreddit}</Badge>
+                                                            <span>• {post.score} upvotes</span>
+                                                            <ExternalLink className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity" />
+                                                        </div>
                                                     </div>
-                                                    <div className="flex items-center gap-2 mt-2 text-xs text-muted-foreground">
-                                                        <Badge variant="outline" className="text-[10px]">r/{post.subreddit}</Badge>
-                                                        <span>• {post.score} upvotes</span>
-                                                        <ExternalLink className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity" />
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        ))}
-                                        {selectedStock.posts.length === 0 && <p className="text-muted-foreground">No recent top posts found.</p>}
+                                                </a>
+                                            ))
+                                        ) : (
+                                            <div className="text-center py-8 text-muted-foreground">
+                                                <p className="mb-2">No recent Reddit posts found for {selectedStock.symbol}</p>
+                                                <p className="text-xs">This stock may not be actively discussed on Reddit right now.</p>
+                                            </div>
+                                        )}
                                     </CardContent>
                                 </Card>
 
