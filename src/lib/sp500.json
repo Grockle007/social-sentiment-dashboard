@@ -1,0 +1,5022 @@
+[
+  {
+    "symbol": "MMM",
+    "name": "3M",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AOS",
+    "name": "A. O. Smith",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ABT",
+    "name": "Abbott Laboratories",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ABBV",
+    "name": "AbbVie",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ACN",
+    "name": "Accenture",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ADBE",
+    "name": "Adobe Inc.",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AES",
+    "name": "AES Corporation",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AFL",
+    "name": "Aflac",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "A",
+    "name": "Agilent Technologies",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "APD",
+    "name": "Air Products",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ABNB",
+    "name": "Airbnb",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AKAM",
+    "name": "Akamai Technologies",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ALB",
+    "name": "Albemarle Corporation",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ARE",
+    "name": "Alexandria Real Estate Equities",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ALGN",
+    "name": "Align Technology",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ALLE",
+    "name": "Allegion",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LNT",
+    "name": "Alliant Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ALL",
+    "name": "Allstate",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc. (Class A)",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GOOG",
+    "name": "Alphabet Inc. (Class C)",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MO",
+    "name": "Altria",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AMCR",
+    "name": "Amcor",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AEE",
+    "name": "Ameren",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AEP",
+    "name": "American Electric Power",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AXP",
+    "name": "American Express",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AIG",
+    "name": "American International Group",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AMT",
+    "name": "American Tower",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AWK",
+    "name": "American Water Works",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AMP",
+    "name": "Ameriprise Financial",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AME",
+    "name": "Ametek",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AMGN",
+    "name": "Amgen",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "APH",
+    "name": "Amphenol",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ADI",
+    "name": "Analog Devices",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AON",
+    "name": "Aon plc",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "APA",
+    "name": "APA Corporation",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "APTV",
+    "name": "Aptiv",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ACGL",
+    "name": "Arch Capital Group",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ADM",
+    "name": "Archer-Daniels-Midland",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ANET",
+    "name": "Arista Networks",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AIZ",
+    "name": "Assurant",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "T",
+    "name": "AT&T",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ATO",
+    "name": "Atmos Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ADSK",
+    "name": "Autodesk",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ADP",
+    "name": "Automatic Data Processing",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AZO",
+    "name": "AutoZone",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AVB",
+    "name": "AvalonBay Communities",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AVY",
+    "name": "Avery Dennison",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AXON",
+    "name": "Axon Enterprise",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BKR",
+    "name": "Baker Hughes",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BALL",
+    "name": "Ball Corporation",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BAC",
+    "name": "Bank of America",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BK",
+    "name": "Bank of New York Mellon",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BBWI",
+    "name": "Bath & Body Works",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BAX",
+    "name": "Baxter International",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BDX",
+    "name": "Becton Dickinson",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BRK.B",
+    "name": "Berkshire Hathaway",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BBY",
+    "name": "Best Buy",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BIO",
+    "name": "Bio-Rad Laboratories",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TECH",
+    "name": "Bio-Techne",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BIIB",
+    "name": "Biogen",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BLK",
+    "name": "BlackRock",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BX",
+    "name": "Blackstone",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BA",
+    "name": "Boeing",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BKNG",
+    "name": "Booking Holdings",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BWA",
+    "name": "BorgWarner",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BSX",
+    "name": "Boston Scientific",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BMY",
+    "name": "Bristol Myers Squibb",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "AVGO",
+    "name": "Broadcom",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BR",
+    "name": "Broadridge Financial Solutions",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BRO",
+    "name": "Brown & Brown",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BF.B",
+    "name": "Brown–Forman",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BLDR",
+    "name": "Builders FirstSource",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BG",
+    "name": "Bunge Global SA",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CDNS",
+    "name": "Cadence Design Systems",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CZR",
+    "name": "Caesars Entertainment",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CPT",
+    "name": "Camden Property Trust",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CPB",
+    "name": "Campbell Soup",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "COF",
+    "name": "Capital One",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CAH",
+    "name": "Cardinal Health",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KMX",
+    "name": "CarMax",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CCL",
+    "name": "Carnival",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CARR",
+    "name": "Carrier Global",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CTLT",
+    "name": "Catalent",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CAT",
+    "name": "Caterpillar",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CBOE",
+    "name": "Cboe Global Markets",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CBRE",
+    "name": "CBRE Group",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CDW",
+    "name": "CDW",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CE",
+    "name": "Celanese",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "COR",
+    "name": "Cencora",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CNC",
+    "name": "Centene",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CNP",
+    "name": "CenterPoint Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CF",
+    "name": "CF Industries",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CHRW",
+    "name": "CH Robinson",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CRL",
+    "name": "Charles River Laboratories",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SCHW",
+    "name": "Charles Schwab Corporation",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CHTR",
+    "name": "Charter Communications",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CVX",
+    "name": "Chevron",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CMG",
+    "name": "Chipotle Mexican Grill",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CB",
+    "name": "Chubb",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CHD",
+    "name": "Church & Dwight",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CI",
+    "name": "Cigna",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CINF",
+    "name": "Cincinnati Financial",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CTAS",
+    "name": "Cintas",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CSCO",
+    "name": "Cisco",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "C",
+    "name": "Citigroup",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CFG",
+    "name": "Citizens Financial Group",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CLX",
+    "name": "Clorox",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CME",
+    "name": "CME Group",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CMS",
+    "name": "CMS Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KO",
+    "name": "Coca-Cola Company",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CTSH",
+    "name": "Cognizant",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CL",
+    "name": "Colgate-Palmolive",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CMCSA",
+    "name": "Comcast",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CMA",
+    "name": "Comerica",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CAG",
+    "name": "Conagra Brands",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "COP",
+    "name": "ConocoPhillips",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ED",
+    "name": "Consolidated Edison",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "STZ",
+    "name": "Constellation Brands",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CEG",
+    "name": "Constellation Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "COO",
+    "name": "Cooper Companies",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CPRT",
+    "name": "Copart",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GLW",
+    "name": "Corning",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CPAY",
+    "name": "Corpay",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CTVA",
+    "name": "Corteva",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CSGP",
+    "name": "CoStar Group",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "COST",
+    "name": "Costco",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CTRA",
+    "name": "Coterra Energy",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CCI",
+    "name": "Crown Castle",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CSX",
+    "name": "CSX",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CMI",
+    "name": "Cummins",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CVS",
+    "name": "CVS Health",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DHR",
+    "name": "Danaher",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DRI",
+    "name": "Darden Restaurants",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DVA",
+    "name": "DaVita",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DAY",
+    "name": "Dayforce",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DECK",
+    "name": "Deckers Outdoor",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DE",
+    "name": "Deere & Co.",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DAL",
+    "name": "Delta Air Lines",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DVN",
+    "name": "Devon Energy",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DXCM",
+    "name": "Dexcom",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FANG",
+    "name": "Diamondback Energy",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DLR",
+    "name": "Digital Realty",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DFS",
+    "name": "Discover Financial",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DG",
+    "name": "Dollar General",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DLTR",
+    "name": "Dollar Tree",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "D",
+    "name": "Dominion Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DPZ",
+    "name": "Domino's Pizza",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DOV",
+    "name": "Dover Corporation",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DOW",
+    "name": "Dow",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DHI",
+    "name": "DR Horton",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DTE",
+    "name": "DTE Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DUK",
+    "name": "Duke Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DD",
+    "name": "DuPont",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EMN",
+    "name": "Eastman Chemical",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ETN",
+    "name": "Eaton",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EBAY",
+    "name": "eBay",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ECL",
+    "name": "Ecolab",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EIX",
+    "name": "Edison International",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EW",
+    "name": "Edwards Lifesciences",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EA",
+    "name": "Electronic Arts",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ELV",
+    "name": "Elevance Health",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LLY",
+    "name": "Eli Lilly",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EMR",
+    "name": "Emerson Electric",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ENPH",
+    "name": "Enphase",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ETR",
+    "name": "Entergy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EOG",
+    "name": "EOG Resources",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EPAM",
+    "name": "EPAM Systems",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EQT",
+    "name": "EQT",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EFX",
+    "name": "Equifax",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EQIX",
+    "name": "Equinix",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EQR",
+    "name": "Equity Residential",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ERIE",
+    "name": "Erie Indemnity",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ESS",
+    "name": "Essex Property Trust",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EL",
+    "name": "Estée Lauder",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ETSY",
+    "name": "Etsy",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EG",
+    "name": "Everest Group",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EVRG",
+    "name": "Evergy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ES",
+    "name": "Eversource",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EXC",
+    "name": "Exelon",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EXPE",
+    "name": "Expedia Group",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EXPD",
+    "name": "Expeditors",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "EXR",
+    "name": "Extra Space Storage",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "XOM",
+    "name": "ExxonMobil",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FFIV",
+    "name": "F5",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FDS",
+    "name": "FactSet",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FICO",
+    "name": "Fair Isaac",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FAST",
+    "name": "Fastenal",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FRT",
+    "name": "Federal Realty",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FDX",
+    "name": "FedEx",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FIS",
+    "name": "Fidelity National Information Services",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FITB",
+    "name": "Fifth Third Bank",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FSLR",
+    "name": "First Solar",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FE",
+    "name": "FirstEnergy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FI",
+    "name": "Fiserv",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FMC",
+    "name": "FMC Corporation",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "F",
+    "name": "Ford",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FTNT",
+    "name": "Fortinet",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FTV",
+    "name": "Fortive",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FOXA",
+    "name": "Fox Corporation (Class A)",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FOX",
+    "name": "Fox Corporation (Class B)",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "BEN",
+    "name": "Franklin Templeton",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "FCX",
+    "name": "Freeport-McMoRan",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GRMN",
+    "name": "Garmin",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IT",
+    "name": "Gartner",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GE",
+    "name": "General Electric",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GEHC",
+    "name": "GE HealthCare",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GEV",
+    "name": "GE Vernova",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GEN",
+    "name": "Gen Digital",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GNRC",
+    "name": "Generac",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GD",
+    "name": "General Dynamics",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GIS",
+    "name": "General Mills",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GM",
+    "name": "General Motors",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GPC",
+    "name": "Genuine Parts",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GILD",
+    "name": "Gilead Sciences",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GPN",
+    "name": "Global Payments",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GL",
+    "name": "Globe Life",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GDDY",
+    "name": "GoDaddy",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GS",
+    "name": "Goldman Sachs",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HAL",
+    "name": "Halliburton",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HIG",
+    "name": "Hartford Financial Services",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HAS",
+    "name": "Hasbro",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HCA",
+    "name": "HCA Healthcare",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DOC",
+    "name": "Healthpeak",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HSIC",
+    "name": "Henry Schein",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HSY",
+    "name": "Hershey's",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HES",
+    "name": "Hess",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HLT",
+    "name": "Hilton Worldwide",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HOLX",
+    "name": "Hologic",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HD",
+    "name": "Home Depot",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HON",
+    "name": "Honeywell",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HRL",
+    "name": "Hormel Foods",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HST",
+    "name": "Host Hotels & Resorts",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HWM",
+    "name": "Howmet Aerospace",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HPQ",
+    "name": "HP Inc.",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HUBB",
+    "name": "Hubbell Incorporated",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HUM",
+    "name": "Humana",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HBAN",
+    "name": "Huntington Bancshares",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "HII",
+    "name": "Huntington Ingalls Industries",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IBM",
+    "name": "IBM",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IEX",
+    "name": "IDEX Corporation",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IDXX",
+    "name": "Idexx Laboratories",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ITW",
+    "name": "Illinois Tool Works",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "INCY",
+    "name": "Incyte",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IR",
+    "name": "Ingersoll Rand",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PODD",
+    "name": "Insulet",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ICE",
+    "name": "Intercontinental Exchange",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IFF",
+    "name": "International Flavors & Fragrances",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IP",
+    "name": "International Paper",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IPG",
+    "name": "Interpublic Group",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "INTU",
+    "name": "Intuit",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ISRG",
+    "name": "Intuitive Surgical",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IVZ",
+    "name": "Invesco",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "INVH",
+    "name": "Invitation Homes",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IQV",
+    "name": "IQVIA",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "IRM",
+    "name": "Iron Mountain",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "JBHT",
+    "name": "JB Hunt",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "JBL",
+    "name": "Jabil",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "JKHY",
+    "name": "Jack Henry & Associates",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "J",
+    "name": "Jacobs Solutions",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "JCI",
+    "name": "Johnson Controls",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "JNPR",
+    "name": "Juniper Networks",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "K",
+    "name": "Kellanova",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KVUE",
+    "name": "Kenvue",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KEY",
+    "name": "KeyCorp",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KEYS",
+    "name": "Keysight",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KMB",
+    "name": "Kimberly-Clark",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KIM",
+    "name": "Kimco Realty",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KMI",
+    "name": "Kinder Morgan",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KKR",
+    "name": "KKR & Co.",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KLAC",
+    "name": "KLA Corporation",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KHC",
+    "name": "Kraft Heinz",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "KR",
+    "name": "Kroger",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LHX",
+    "name": "L3Harris",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LH",
+    "name": "LabCorp",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LRCX",
+    "name": "Lam Research",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LW",
+    "name": "Lamb Weston",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LVS",
+    "name": "Las Vegas Sands",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LDOS",
+    "name": "Leidos",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LEN",
+    "name": "Lennar",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LIN",
+    "name": "Linde",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LYV",
+    "name": "Live Nation Entertainment",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LKQ",
+    "name": "LKQ Corporation",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LMT",
+    "name": "Lockheed Martin",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "L",
+    "name": "Loews",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LOW",
+    "name": "Lowe's",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LULU",
+    "name": "Lululemon",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LYB",
+    "name": "LyondellBasell",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MTB",
+    "name": "M&T Bank",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MRO",
+    "name": "Marathon Oil",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MPC",
+    "name": "Marathon Petroleum",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MKTX",
+    "name": "MarketAxess",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MAR",
+    "name": "Marriott International",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MMC",
+    "name": "Marsh & McLennan",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MLM",
+    "name": "Martin Marietta Materials",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MAS",
+    "name": "Masco",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MA",
+    "name": "Mastercard",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MTCH",
+    "name": "Match Group",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MKC",
+    "name": "McCormick & Company",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MCD",
+    "name": "McDonald's",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MCK",
+    "name": "McKesson",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MDT",
+    "name": "Medtronic",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MRK",
+    "name": "Merck & Co.",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MET",
+    "name": "MetLife",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MTD",
+    "name": "Mettler Toledo",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MGM",
+    "name": "MGM Resorts",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MCHP",
+    "name": "Microchip Technology",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MU",
+    "name": "Micron Technology",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MAA",
+    "name": "Mid-America Apartments",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MRNA",
+    "name": "Moderna",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MHK",
+    "name": "Mohawk Industries",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MOH",
+    "name": "Molina Healthcare",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TAP",
+    "name": "Molson Coors Beverage Company",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MDLZ",
+    "name": "Mondelez",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MPWR",
+    "name": "Monolithic Power Systems",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MNST",
+    "name": "Monster Beverage",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MCO",
+    "name": "Moody's",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MS",
+    "name": "Morgan Stanley",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MOS",
+    "name": "Mosaic",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MSI",
+    "name": "Motorola Solutions",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "MSCI",
+    "name": "MSCI",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NDAQ",
+    "name": "Nasdaq",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NDSN",
+    "name": "Nordson",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NOV",
+    "name": "NOV Inc.",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NTAP",
+    "name": "NetApp",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NEM",
+    "name": "Newmont",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NWSA",
+    "name": "News Corp (Class A)",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NWS",
+    "name": "News Corp (Class B)",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NEE",
+    "name": "NextEra Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NKE",
+    "name": "Nike",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NI",
+    "name": "NiSource",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NCLH",
+    "name": "Norwegian Cruise Line",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NSC",
+    "name": "Norfolk Southern",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NTRS",
+    "name": "Northern Trust",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NOC",
+    "name": "Northrop Grumman",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NXPI",
+    "name": "NXP Semiconductors",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NUE",
+    "name": "Nucor",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NVDA",
+    "name": "Nvidia",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NVR",
+    "name": "NVR Inc.",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NYCB",
+    "name": "New York Community Bank",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ORLY",
+    "name": "O'Reilly Automotive",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "OXY",
+    "name": "Occidental Petroleum",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ODFL",
+    "name": "Old Dominion Freight Line",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "OMC",
+    "name": "Omnicom Group",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ON",
+    "name": "ON Semiconductor",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "OKE",
+    "name": "ONEOK",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ORCL",
+    "name": "Oracle",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "OTIS",
+    "name": "Otis Worldwide",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PCAR",
+    "name": "Paccar",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PKG",
+    "name": "Packaging Corporation of America",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PARA",
+    "name": "Paramount Global",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PH",
+    "name": "Parker Hannifin",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PAYX",
+    "name": "Paychex",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PAYC",
+    "name": "Paycom",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PayPal",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PNR",
+    "name": "Pentair",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PEP",
+    "name": "PepsiCo",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PFE",
+    "name": "Pfizer",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PCG",
+    "name": "PG&E",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PM",
+    "name": "Philip Morris International",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PSX",
+    "name": "Phillips 66",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PNW",
+    "name": "Pinnacle West",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PNC",
+    "name": "PNC Financial Services",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "POOL",
+    "name": "Pool Corporation",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PPG",
+    "name": "PPG Industries",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PPL",
+    "name": "PPL",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PFG",
+    "name": "Principal Financial",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PG",
+    "name": "Procter & Gamble",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PGR",
+    "name": "Progressive",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PLD",
+    "name": "Prologis",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PRU",
+    "name": "Prudential",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PEG",
+    "name": "Public Service Enterprise Group",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PTC",
+    "name": "PTC",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PSA",
+    "name": "Public Storage",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PHM",
+    "name": "PulteGroup",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "PWR",
+    "name": "Quanta Services",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "QRVO",
+    "name": "Qorvo",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "QCOM",
+    "name": "Qualcomm",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DGX",
+    "name": "Quest Diagnostics",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "RL",
+    "name": "Ralph Lauren",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "RJF",
+    "name": "Raymond James",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "RTX",
+    "name": "RTX Corporation",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "O",
+    "name": "Realty Income",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "REG",
+    "name": "Regency Centers",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "REGN",
+    "name": "Regeneron",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "RF",
+    "name": "Regions Financial",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "RSG",
+    "name": "Republic Services",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "RMD",
+    "name": "ResMed",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "RVTY",
+    "name": "Revvity",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ROK",
+    "name": "Rockwell Automation",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ROL",
+    "name": "Rollins",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ROP",
+    "name": "Roper Technologies",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ROST",
+    "name": "Ross Stores",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "RCL",
+    "name": "Royal Caribbean",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SPGI",
+    "name": "S&P Global",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "CRM",
+    "name": "Salesforce",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SBAC",
+    "name": "SBA Communications",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SLB",
+    "name": "Schlumberger",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "STX",
+    "name": "Seagate Technology",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SRE",
+    "name": "Sempra",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "NOW",
+    "name": "ServiceNow",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SHW",
+    "name": "Sherwin-Williams",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SPG",
+    "name": "Simon Property Group",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SWKS",
+    "name": "Skyworks Solutions",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SJM",
+    "name": "JM Smucker",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SW",
+    "name": "Smurfit Westrock",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SNA",
+    "name": "Snap-on",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SOLV",
+    "name": "Solventum",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SO",
+    "name": "Southern Company",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "LUV",
+    "name": "Southwest Airlines",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SWK",
+    "name": "Stanley Black & Decker",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SBUX",
+    "name": "Starbucks",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "STLD",
+    "name": "Steel Dynamics",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SMCI",
+    "name": "Super Micro Computer",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "STE",
+    "name": "Steris",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SYK",
+    "name": "Stryker",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "STLA",
+    "name": "Stellantis",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SYF",
+    "name": "Synchrony",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SNPS",
+    "name": "Synopsys",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "SYY",
+    "name": "Sysco",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TMUS",
+    "name": "T-Mobile US",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TROW",
+    "name": "T. Rowe Price",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TTWO",
+    "name": "Take-Two Interactive",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TPR",
+    "name": "Tapestry",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TRGP",
+    "name": "Targa Resources",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TGT",
+    "name": "Target",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TEL",
+    "name": "TE Connectivity",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TDY",
+    "name": "Teledyne Technologies",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TFX",
+    "name": "Teleflex",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TER",
+    "name": "Teradyne",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TPL",
+    "name": "Texas Pacific Land",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TXT",
+    "name": "Textron",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TMO",
+    "name": "Thermo Fisher Scientific",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TJX",
+    "name": "TJX Companies",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TSCO",
+    "name": "Tractor Supply",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TT",
+    "name": "Trane Technologies",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TDG",
+    "name": "TransDigm",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TRV",
+    "name": "Travelers",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TRMB",
+    "name": "Trimble",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TFC",
+    "name": "Truist",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TYL",
+    "name": "Tyler Technologies",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "TSN",
+    "name": "Tyson Foods",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "USB",
+    "name": "U.S. Bancorp",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "UBER",
+    "name": "Uber",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "UDR",
+    "name": "UDR",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ULTA",
+    "name": "Ulta Beauty",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "UNP",
+    "name": "Union Pacific",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "UAL",
+    "name": "United Airlines",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "UPS",
+    "name": "United Parcel Service",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "URI",
+    "name": "United Rentals",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "UNH",
+    "name": "UnitedHealth Group",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "UHS",
+    "name": "Universal Health Services",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "VLO",
+    "name": "Valero Energy",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "VTR",
+    "name": "Ventas",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "VRSN",
+    "name": "VeriSign",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "VRSK",
+    "name": "Verisk",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "VZ",
+    "name": "Verizon",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "VRTX",
+    "name": "Vertex Pharmaceuticals",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "VTRS",
+    "name": "Viatris",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "VICI",
+    "name": "VICI Properties",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "V",
+    "name": "Visa",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "VST",
+    "name": "Vistra",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "VMC",
+    "name": "Vulcan Materials",
+    "sector": "Materials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WRB",
+    "name": "W. R. Berkley",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "GWW",
+    "name": "WW Grainger",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WAB",
+    "name": "Wabtec",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WBA",
+    "name": "Walgreens Boots Alliance",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WMT",
+    "name": "Walmart",
+    "sector": "Consumer Staples",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "DIS",
+    "name": "Walt Disney",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WBD",
+    "name": "Warner Bros. Discovery",
+    "sector": "Communication Services",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WM",
+    "name": "Waste Management",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WAT",
+    "name": "Waters Corporation",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WEC",
+    "name": "WEC Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WFC",
+    "name": "Wells Fargo",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WELL",
+    "name": "Welltower",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WST",
+    "name": "West Pharmaceutical Services",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WDC",
+    "name": "Western Digital",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WY",
+    "name": "Weyerhaeuser",
+    "sector": "Real Estate",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WMB",
+    "name": "Williams Companies",
+    "sector": "Energy",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WTW",
+    "name": "Willis Towers Watson",
+    "sector": "Financials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "WYNN",
+    "name": "Wynn Resorts",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "XEL",
+    "name": "Xcel Energy",
+    "sector": "Utilities",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "XYL",
+    "name": "Xylem",
+    "sector": "Industrials",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "YUM",
+    "name": "Yum! Brands",
+    "sector": "Consumer Discretionary",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ZBRA",
+    "name": "Zebra Technologies",
+    "sector": "Information Technology",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ZBH",
+    "name": "Zimmer Biomet",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  },
+  {
+    "symbol": "ZTS",
+    "name": "Zoetis",
+    "sector": "Health Care",
+    "subSector": "",
+    "headQuarter": "",
+    "dateFirstAdded": "",
+    "cik": "",
+    "founded": ""
+  }
+]
