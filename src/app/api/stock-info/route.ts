@@ -50,8 +50,8 @@ export async function GET(request: Request) {
             // Fallback to scraping
             const scrapedData = await scrapeFundamentals(symbol);
             fundamentals = scrapedData;
-            // Get correlated stocks using old method if Gemini fails
-            correlatedStocks = await getCorrelatedStocks(symbol);
+            // Use mock correlation data if Gemini fails
+            correlatedStocks = getMockCorrelatedStocks(symbol);
         }
 
         const stockInfo: StockInfo = {
