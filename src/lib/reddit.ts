@@ -148,8 +148,14 @@ export async function getTrendingStocks(): Promise<TrendingStock[]> {
         console.log('Trending stocks with sentiment:', trending.map(s => ({
             symbol: s.symbol,
             mentions: s.mentions,
-            sentiment: s.sentiment.toFixed(2)
+            sentiment: s.sentiment.toFixed(2),
+            postsCount: s.posts.length
         })));
+
+        // Log first stock's posts for debugging
+        if (trending.length > 0 && trending[0].posts.length > 0) {
+            console.log(`Sample posts for ${trending[0].symbol}:`, trending[0].posts.slice(0, 2));
+        }
 
         return trending;
 
