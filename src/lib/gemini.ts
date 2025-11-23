@@ -6,6 +6,11 @@ interface GeminiStockData {
     price: number | null;
     eps: number | null;
     pe: number | null;
+    correlatedStocks: {
+        symbol: string;
+        name: string;
+        correlation: number;
+    }[];
 }
 
 export async function getStockDataFromGemini(symbol: string): Promise<GeminiStockData> {
@@ -19,9 +24,17 @@ export async function getStockDataFromGemini(symbol: string): Promise<GeminiStoc
 {
   "price": current stock price as a number,
   "eps": earnings per share as a number,
-  "pe": price to earnings ratio as a number
+  "pe": price to earnings ratio as a number,
+  "correlatedStocks": [
+    {
+      "symbol": "TICKER",
+      "name": "Company Name",
+      "correlation": number between 0.5 and 1.0 representing correlation strength
+    }
+  ]
 }
 
+For correlated stocks, identify 3 major companies that are highly correlated with ${symbol} based on sector, market movements, and business model.
 If any value is not available, use null. Return ONLY valid JSON, no other text.`;
 
         const response = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
@@ -39,7 +52,7 @@ If any value is not available, use null. Return ONLY valid JSON, no other text.`
                     temperature: 0.1,
                     topK: 1,
                     topP: 1,
-                    maxOutputTokens: 256,
+                    maxOutputTokens: 1024,
                 }
             })
         });
@@ -64,7 +77,8 @@ If any value is not available, use null. Return ONLY valid JSON, no other text.`
         return {
             price: stockData.price,
             eps: stockData.eps,
-            pe: stockData.pe
+            pe: stockData.pe,
+            correlatedStocks: stockData.correlatedStocks || []
         };
     } catch (error) {
         console.error('Gemini API failed:', error);

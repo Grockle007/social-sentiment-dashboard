@@ -16,7 +16,7 @@ interface StockInfo {
     }[];
 }
 
-const ALPHA_VANTAGE_API_KEY = process.env.ALPHA_VANTAGE_API_KEY;
+
 
 export async function GET(request: Request) {
     const { searchParams } = new URL(request.url);
@@ -34,17 +34,25 @@ export async function GET(request: Request) {
     try {
         // Try Gemini API first (free, AI-powered, real-time)
         let fundamentals;
-        try {
-            fundamentals = await getStockDataFromGemini(symbol);
-            console.log(`Using Gemini data for ${symbol}`);
-        } catch (geminiError) {
-            console.log(`Gemini failed, trying Alpha Vantage for ${symbol}`);
-            // Fallback to Alpha Vantage
-            fundamentals = await fetchAlphaVantageData(symbol);
-        }
+        let correlatedStocks = [];
 
-        // Get correlated stocks
-        const correlatedStocks = await getCorrelatedStocks(symbol);
+        try {
+            const geminiData = await getStockDataFromGemini(symbol);
+            console.log(`Using Gemini data for ${symbol}`);
+            fundamentals = {
+                price: geminiData.price,
+                eps: geminiData.eps,
+                pe: geminiData.pe
+            };
+            correlatedStocks = geminiData.correlatedStocks;
+        } catch (geminiError) {
+            console.log(`Gemini failed, using scraping fallback for ${symbol}`);
+            // Fallback to scraping
+            const scrapedData = await scrapeFundamentals(symbol);
+            fundamentals = scrapedData;
+            // Get correlated stocks using old method if Gemini fails
+            correlatedStocks = await getCorrelatedStocks(symbol);
+        }
 
         const stockInfo: StockInfo = {
             symbol,
@@ -71,53 +79,7 @@ export async function GET(request: Request) {
     }
 }
 
-async function fetchAlphaVantageData(symbol: string) {
-    if (!ALPHA_VANTAGE_API_KEY) {
-        console.warn('Alpha Vantage API key not found, using fallback');
-        throw new Error('No API key');
-    }
 
-    try {
-        // Fetch company overview (includes EPS, P/E, and more)
-        const overviewUrl = `https://www.alphavantage.co/query?function=OVERVIEW&symbol=${symbol}&apikey=${ALPHA_VANTAGE_API_KEY}`;
-        const overviewResponse = await fetch(overviewUrl, {
-            next: { revalidate: 86400 } // Cache for 24 hours
-        });
-
-        if (!overviewResponse.ok) {
-            throw new Error('Alpha Vantage API request failed');
-        }
-
-        const overviewData = await overviewResponse.json();
-
-        // Check for API limit error
-        if (overviewData.Note || overviewData.Information) {
-            console.warn('Alpha Vantage API limit reached:', overviewData.Note || overviewData.Information);
-            throw new Error('API limit reached');
-        }
-
-        // Fetch global quote for current price
-        const quoteUrl = `https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=${symbol}&apikey=${ALPHA_VANTAGE_API_KEY}`;
-        const quoteResponse = await fetch(quoteUrl, {
-            next: { revalidate: 300 } // Cache for 5 minutes
-        });
-
-        const quoteData = await quoteResponse.json();
-        const quote = quoteData['Global Quote'];
-
-        const price = quote?.['05. price'] ? parseFloat(quote['05. price']) : null;
-        const eps = overviewData.EPS ? parseFloat(overviewData.EPS) : null;
-        const pe = overviewData.PERatio ? parseFloat(overviewData.PERatio) : null;
-
-        console.log(`Alpha Vantage data for ${symbol}:`, { price, eps, pe });
-
-        return { price, eps, pe };
-    } catch (error) {
-        console.error('Alpha Vantage fetch failed:', error);
-        // Fallback to Yahoo Finance scraping
-        return await scrapeFundamentals(symbol);
-    }
-}
 
 async function scrapeFundamentals(symbol: string) {
     try {
