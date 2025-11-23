@@ -1,0 +1,73 @@
+// Gemini API integration for stock fundamentals
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent';
+
+interface GeminiStockData {
+    price: number | null;
+    eps: number | null;
+    pe: number | null;
+}
+
+export async function getStockDataFromGemini(symbol: string): Promise<GeminiStockData> {
+    if (!GEMINI_API_KEY) {
+        console.warn('Gemini API key not found');
+        throw new Error('No Gemini API key');
+    }
+
+    try {
+        const prompt = `Get the latest stock data for ${symbol}. Provide ONLY the following in JSON format:
+{
+  "price": current stock price as a number,
+  "eps": earnings per share as a number,
+  "pe": price to earnings ratio as a number
+}
+
+If any value is not available, use null. Return ONLY valid JSON, no other text.`;
+
+        const response = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                contents: [{
+                    parts: [{
+                        text: prompt
+                    }]
+                }],
+                generationConfig: {
+                    temperature: 0.1,
+                    topK: 1,
+                    topP: 1,
+                    maxOutputTokens: 256,
+                }
+            })
+        });
+
+        if (!response.ok) {
+            throw new Error(`Gemini API error: ${response.status}`);
+        }
+
+        const data = await response.json();
+        const text = data.candidates[0].content.parts[0].text;
+
+        // Extract JSON from response (Gemini might wrap it in markdown)
+        const jsonMatch = text.match(/\{[\s\S]*\}/);
+        if (!jsonMatch) {
+            throw new Error('No JSON found in Gemini response');
+        }
+
+        const stockData = JSON.parse(jsonMatch[0]);
+
+        console.log(`Gemini data for ${symbol}:`, stockData);
+
+        return {
+            price: stockData.price,
+            eps: stockData.eps,
+            pe: stockData.pe
+        };
+    } catch (error) {
+        console.error('Gemini API failed:', error);
+        throw error;
+    }
+}

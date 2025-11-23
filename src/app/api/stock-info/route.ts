@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import * as cheerio from 'cheerio';
 import sp500Data from '@/lib/sp500.json';
+import { getStockDataFromGemini } from '@/lib/gemini';
 
 interface StockInfo {
     symbol: string;
@@ -31,8 +32,16 @@ export async function GET(request: Request) {
     }
 
     try {
-        // Try Alpha Vantage API first
-        const fundamentals = await fetchAlphaVantageData(symbol);
+        // Try Gemini API first (free, AI-powered, real-time)
+        let fundamentals;
+        try {
+            fundamentals = await getStockDataFromGemini(symbol);
+            console.log(`Using Gemini data for ${symbol}`);
+        } catch (geminiError) {
+            console.log(`Gemini failed, trying Alpha Vantage for ${symbol}`);
+            // Fallback to Alpha Vantage
+            fundamentals = await fetchAlphaVantageData(symbol);
+        }
 
         // Get correlated stocks
         const correlatedStocks = await getCorrelatedStocks(symbol);
