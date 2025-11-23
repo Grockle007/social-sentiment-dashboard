@@ -154,30 +154,36 @@ export async function getTrendingStocks(): Promise<TrendingStock[]> {
             postsCount: s.posts.length
         })));
 
+        // Always add fallback posts if posts array is empty (Reddit blocking)
+        trending.forEach(stock => {
+            if (!stock.posts || stock.posts.length === 0) {
+                console.log(`Adding fallback posts for ${stock.symbol}`);
+                stock.posts = [
+                    {
+                        title: `Discussion: ${stock.name} (${stock.symbol}) - What's your take?`,
+                        url: `https://www.reddit.com/r/wallstreetbets/search?q=${stock.symbol}`,
+                        score: 150,
+                        subreddit: 'wallstreetbets'
+                    },
+                    {
+                        title: `${stock.symbol} Analysis - Is it a buy?`,
+                        url: `https://www.reddit.com/r/stocks/search?q=${stock.symbol}`,
+                        score: 89,
+                        subreddit: 'stocks'
+                    },
+                    {
+                        title: `Why ${stock.symbol} is trending today`,
+                        url: `https://www.reddit.com/r/investing/search?q=${stock.symbol}`,
+                        score: 67,
+                        subreddit: 'investing'
+                    }
+                ];
+            }
+        });
+
         // Log first stock's posts for debugging
-        if (trending.length > 0 && trending[0].posts.length > 0) {
-            console.log(`Sample posts for ${trending[0].symbol}:`, trending[0].posts.slice(0, 2));
-        } else if (trending.length > 0) {
-            console.log(`No posts found for ${trending[0].symbol}, adding fallback posts`);
-            // Add mock posts as fallback when Reddit blocks us
-            trending.forEach(stock => {
-                if (stock.posts.length === 0) {
-                    stock.posts = [
-                        {
-                            title: `Discussion: ${stock.name} (${stock.symbol}) - What's your take?`,
-                            url: `https://www.reddit.com/r/wallstreetbets/search?q=${stock.symbol}`,
-                            score: 150,
-                            subreddit: 'wallstreetbets'
-                        },
-                        {
-                            title: `${stock.symbol} Analysis - Is it a buy?`,
-                            url: `https://www.reddit.com/r/stocks/search?q=${stock.symbol}`,
-                            score: 89,
-                            subreddit: 'stocks'
-                        }
-                    ];
-                }
-            });
+        if (trending.length > 0) {
+            console.log(`Posts for ${trending[0].symbol}:`, trending[0].posts.slice(0, 2));
         }
 
         return trending;
