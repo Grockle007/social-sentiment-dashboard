@@ -8,6 +8,7 @@ import { Skeleton } from '@/components/ui/skeleton';
 import { Input } from '@/components/ui/input';
 import { motion, AnimatePresence } from 'framer-motion';
 import { TrendingUp, MessageSquare, Newspaper, ExternalLink, Send, Search } from 'lucide-react';
+import Link from 'next/link';
 import sp500Data from '@/lib/sp500.json';
 
 interface NewsItem {
@@ -146,6 +147,11 @@ export default function Dashboard() {
                     <p className="text-muted-foreground">Real-time trending stocks from Reddit & News</p>
                 </div>
                 <div className="flex items-center gap-2">
+                    <Link href="/bitcoin">
+                        <Button variant="outline" className="bg-orange-500/10 text-orange-500 hover:bg-orange-500/20 hover:text-orange-600 border-orange-200">
+                            Bitcoin Live
+                        </Button>
+                    </Link>
                     <Button onClick={sendSms} disabled={smsStatus === 'sending' || smsStatus === 'sent'} variant="outline">
                         <Send className="mr-2 h-4 w-4" />
                         {smsStatus === 'sending' ? 'Sending...' : smsStatus === 'sent' ? 'Sent!' : 'Send Daily Email'}
